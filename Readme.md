@@ -20,3 +20,6 @@ __A prototype of a Snake game made for a PIC18F45K22 microcontroller__
 ### Source Code
 ---
 The source code for this project can be found [here](https://github.com/SmashKPI/Snake-Game/blob/main/snakeGameCode.c)
+### Schematic
+---
+Schematic is pretty straightforward due to the low quantity of components, and it can be found by clicking [here](https://github.com/SmashKPI/Snake-Game/blob/main/snakeGameSchematic.dch)
