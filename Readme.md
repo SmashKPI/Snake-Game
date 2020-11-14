@@ -1,6 +1,8 @@
 # Snake Game for a PIC18F45K22
 ---
 ![Main Screen](mainScreen.PNG)
+![Gameplay](game.PNG)
+
 __A prototype of a Snake game made for a PIC18F45K22 microcontroller__
 
 >Will be modified to work with a screen instead of sending a data via 
